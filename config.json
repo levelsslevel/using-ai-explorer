@@ -1,0 +1,7 @@
+{
+    "model": "gemma4:31b-cloud",
+    "prompt": "Please describe the main content of this screenshot.",
+    "region": "right_half",
+    "delay": 1.0,
+    "output_file": "answers.txt"
+}
